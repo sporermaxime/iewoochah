@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifaimoof.gafferhq.org/sitemap.xml
